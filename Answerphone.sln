@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Answerphone", "Answerphone\Answerphone.csproj", "{5DB0A8E2-62D2-46D4-8856-E2BC3C2B2934}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sim868", "Sim868\Sim868.csproj", "{95F790AE-DC5B-4400-89DE-11692034962F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB0A8E2-62D2-46D4-8856-E2BC3C2B2934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB0A8E2-62D2-46D4-8856-E2BC3C2B2934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB0A8E2-62D2-46D4-8856-E2BC3C2B2934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB0A8E2-62D2-46D4-8856-E2BC3C2B2934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F790AE-DC5B-4400-89DE-11692034962F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F790AE-DC5B-4400-89DE-11692034962F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F790AE-DC5B-4400-89DE-11692034962F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F790AE-DC5B-4400-89DE-11692034962F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8882ACA7-875B-41A3-A212-332F187E1D70}
+	EndGlobalSection
+EndGlobal
